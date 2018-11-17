@@ -19,7 +19,7 @@ int main()
 				else		//For others print spaces
 				cout<<" ";
 			}
-		}           s
+		}           
 		cout<<endl;
 	}
     return 0;
