@@ -53,7 +53,7 @@ int main(){
     if(ar1==ar2)
         cout<<"Area of rectangle 1 is equal to area of rectangle 2 which is : "<<ar2<<endl;
     if(peri1==peri2)
-        cout<<"Perimeter of rectangle 1 is equal to perimeter of rectangle 2 which is : "<<ar2<<endl;
+        cout<<"Perimeter of rectangle 1 is equal to perimeter of rectangle 2 which is : "<<peri2<<endl;
     return 0;
 }
 
